@@ -2,7 +2,7 @@
 
 declare(strict_types = 1);
 
-namespace Uro\TeltonikaFmParser\Model;
+namespace Ocsico\TeltonikaFmParser\Model;
 
 use DateTimeImmutable;
 use JsonSerializable;

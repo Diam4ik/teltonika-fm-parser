@@ -1,6 +1,6 @@
 <?php
 
-namespace Uro\TeltonikaFmParser\Model;
+namespace Ocsico\TeltonikaFmParser\Model;
 
 interface Model
 {

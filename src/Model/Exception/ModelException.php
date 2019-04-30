@@ -1,6 +1,6 @@
 <?php
 
-namespace Uro\TeltonikaFmParser\Model\Exception;
+namespace Ocsico\TeltonikaFmParser\Model\Exception;
 
 class ModelException extends \Exception
 {

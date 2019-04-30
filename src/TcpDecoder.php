@@ -2,11 +2,11 @@
 
 declare(strict_types=1);
 
-namespace Uro\TeltonikaFmParser;
+namespace Ocsico\TeltonikaFmParser;
 
-use Uro\TeltonikaFmParser\Exception\ParserException;
-use Uro\TeltonikaFmParser\Model\Data;
-use Uro\TeltonikaFmParser\Model\Imei;
+use Ocsico\TeltonikaFmParser\Exception\ParserException;
+use Ocsico\TeltonikaFmParser\Model\Data;
+use Ocsico\TeltonikaFmParser\Model\Imei;
 
 class TcpDecoder implements Decoder
 {

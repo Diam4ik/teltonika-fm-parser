@@ -3,10 +3,10 @@
 namespace tests\Unit;
 
 use PHPUnit_Framework_TestCase;
-use Uro\TeltonikaFmParser\Decoder;
-use Uro\TeltonikaFmParser\Model\Data;
-use Uro\TeltonikaFmParser\Model\Imei;
-use Uro\TeltonikaFmParser\TcpDecoder;
+use Ocsico\TeltonikaFmParser\Decoder;
+use Ocsico\TeltonikaFmParser\Model\Data;
+use Ocsico\TeltonikaFmParser\Model\Imei;
+use Ocsico\TeltonikaFmParser\TcpDecoder;
 
 class TcpDecoderTest extends PHPUnit_Framework_TestCase
 {

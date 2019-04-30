@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace Uro\TeltonikaFmParser;
+namespace Ocsico\TeltonikaFmParser;
 
-use Uro\TeltonikaFmParser\Exception\InvalidArgumentException;
+use Ocsico\TeltonikaFmParser\Exception\InvalidArgumentException;
 
 class TcpEncoder implements Encoder
 {

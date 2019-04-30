@@ -1,9 +1,9 @@
 <?php
 
-namespace Uro\TeltonikaFmParser;
+namespace Ocsico\TeltonikaFmParser;
 
-use Uro\TeltonikaFmParser\Model\Data;
-use Uro\TeltonikaFmParser\Model\Imei;
+use Ocsico\TeltonikaFmParser\Model\Data;
+use Ocsico\TeltonikaFmParser\Model\Imei;
 
 interface Decoder
 {

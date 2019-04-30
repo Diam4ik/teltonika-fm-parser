@@ -2,7 +2,7 @@
 
 namespace Tests\Unit;
 
-use Uro\TeltonikaFmParser\TcpEncoder;
+use Ocsico\TeltonikaFmParser\TcpEncoder;
 
 class TcpEncoderTest extends \PHPUnit_Framework_TestCase
 {
@@ -44,7 +44,7 @@ class TcpEncoderTest extends \PHPUnit_Framework_TestCase
     /**
      * @test
      *
-     * @expectedException \Uro\TeltonikaFmParser\Exception\InvalidArgumentException
+     * @expectedException \Ocsico\TeltonikaFmParser\Exception\InvalidArgumentException
      * @expectedExceptionMessage Value must be 0 or more
      */
     public function is_throwing_an_exception_if_number_of_rows_is_less_than_0()

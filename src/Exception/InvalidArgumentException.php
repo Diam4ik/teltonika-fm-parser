@@ -1,6 +1,6 @@
 <?php
 
-namespace Uro\TeltonikaFmParser\Exception;
+namespace Ocsico\TeltonikaFmParser\Exception;
 
 class InvalidArgumentException extends \Exception
 {

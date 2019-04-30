@@ -1,6 +1,6 @@
 <?php
 
-namespace Uro\TeltonikaFmParser;
+namespace Ocsico\TeltonikaFmParser;
 
 interface Encoder
 {
