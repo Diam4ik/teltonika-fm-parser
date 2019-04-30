@@ -2,7 +2,7 @@
 
 namespace Tests\Unit\Model;
 
-use Ocsico\TeltonikaFmParser\Model\Imei;
+use Diam4ik\TeltonikaFmParser\Model\Imei;
 
 
 class ImeiTest extends \PHPUnit_Framework_TestCase
@@ -21,7 +21,7 @@ class ImeiTest extends \PHPUnit_Framework_TestCase
     /**
      * @test
      *
-     * @expectedException \Ocsico\TeltonikaFmParser\Model\Exception\InvalidArgumentException
+     * @expectedException \Diam4ik\TeltonikaFmParser\Model\Exception\InvalidArgumentException
      * @expectedExceptionMessage IMEI number is not valid.
      */
     public function is_validating_wrong_imei()

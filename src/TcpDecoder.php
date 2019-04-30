@@ -2,11 +2,11 @@
 
 declare(strict_types=1);
 
-namespace Ocsico\TeltonikaFmParser;
+namespace Diam4ik\TeltonikaFmParser;
 
-use Ocsico\TeltonikaFmParser\Exception\ParserException;
-use Ocsico\TeltonikaFmParser\Model\Data;
-use Ocsico\TeltonikaFmParser\Model\Imei;
+use Diam4ik\TeltonikaFmParser\Exception\ParserException;
+use Diam4ik\TeltonikaFmParser\Model\Data;
+use Diam4ik\TeltonikaFmParser\Model\Imei;
 
 class TcpDecoder implements Decoder
 {

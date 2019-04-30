@@ -2,10 +2,10 @@
 
 declare(strict_types=1);
 
-namespace Ocsico\TeltonikaFmParser\Model;
+namespace Diam4ik\TeltonikaFmParser\Model;
 
 use JsonSerializable;
-use Ocsico\TeltonikaFmParser\Model\Exception\InvalidArgumentException;
+use Diam4ik\TeltonikaFmParser\Model\Exception\InvalidArgumentException;
 
 class Imei implements Model, JsonSerializable
 {

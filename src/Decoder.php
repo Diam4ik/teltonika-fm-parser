@@ -1,9 +1,9 @@
 <?php
 
-namespace Ocsico\TeltonikaFmParser;
+namespace Diam4ik\TeltonikaFmParser;
 
-use Ocsico\TeltonikaFmParser\Model\Data;
-use Ocsico\TeltonikaFmParser\Model\Imei;
+use Diam4ik\TeltonikaFmParser\Model\Data;
+use Diam4ik\TeltonikaFmParser\Model\Imei;
 
 interface Decoder
 {

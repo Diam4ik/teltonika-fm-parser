@@ -1,6 +1,6 @@
 <?php
 
-namespace Ocsico\TeltonikaFmParser\Model\Exception;
+namespace Diam4ik\TeltonikaFmParser\Model\Exception;
 
 class InvalidArgumentException extends ModelException
 {

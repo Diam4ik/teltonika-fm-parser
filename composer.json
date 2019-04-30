@@ -10,7 +10,7 @@
     },
     "autoload":{
         "psr-4": {
-            "Ocsico\\TeltonikaFmParser\\": "src"
+            "Diam4ik\\TeltonikaFmParser\\": "src"
         }
     },
     "autoload-dev": {
@@ -22,7 +22,7 @@
     "authors": [
         {
             "name": "Diam4ik",
-            "email": "dmitriy.zhilskiy@ocsico.com"
+            "email": "dmitriy.zhilskiy@Diam4ik.com"
         }
     ]
 }
