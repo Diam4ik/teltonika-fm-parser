@@ -1,6 +1,6 @@
 # Teltonika FM-XXXX Parser 
 
-[![Latest Stable Version](https://poser.pugx.org/Diam4ik/teltonika-fm-parser/v/stable)](https://packagist.org/packages/Diam4ik/teltonika-fm-parser) [![Total Downloads](https://poser.pugx.org/Diam4ik/teltonika-fm-parser/downloads)](https://packagist.org/packages/Diam4ik/teltonika-fm-parser)
+[![Latest Stable Version](https://poser.pugx.org/diam4ik/teltonika-fm-parser/v/stable)](https://packagist.org/packages/diam4ik/teltonika-fm-parser) [![Total Downloads](https://poser.pugx.org/diam4ik/teltonika-fm-parser/downloads)](https://packagist.org/packages/diam4ik/teltonika-fm-parser)
 
 This repository is object oriented library to translate Teltonika protocols.
 
