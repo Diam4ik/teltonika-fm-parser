@@ -1,5 +1,5 @@
 {
-    "name": "Diam4ik/teltonika-fm-parser",
+    "name": "diam4ik/teltonika-fm-parser",
     "description": "Teltonika FMXXXX parser library",
     "type": "library",
     "require": {
